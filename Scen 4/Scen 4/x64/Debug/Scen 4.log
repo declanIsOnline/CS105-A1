@@ -1,0 +1,3 @@
+﻿  Scen 4.cpp
+C:\Users\decla\Documents\Yoobee\CS 105  A1\Scen 4\Scen 4\Scen 4.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Scen 4.vcxproj -> C:\Users\decla\Documents\Yoobee\CS 105  A1\Scen 4\x64\Debug\Scen 4.exe
